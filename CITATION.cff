@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use the Universal Deliberation Protocol, please cite this specification and acknowledge its creator."
+title: "Universal Deliberation Protocol (UDP): Evidence-Driven Adversarial Deliberation"
+version: "2.1.0"
+license: Apache-2.0
+authors:
+  - family-names: Eddars
+    given-names: Noureddine
+    affiliation: EddarsGlobal
+repository-code: "https://github.com/eddarsglobal/universal-deliberation-protocol"
+keywords:
+  - artificial intelligence
+  - large language models
+  - deliberation
+  - evidence verification
+  - AI agents
+  - model evaluation
